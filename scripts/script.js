@@ -12,14 +12,14 @@ new Vue({
         {
           name: "Mann Jogiya",
           artist: "Arijit Singh",
-          cover: "../img/15.jpg",
+          cover: "https://i.ibb.co/zxSFJ5V/15.jpg",
           source: "https://audio.jukehost.co.uk/J4w0nxlFWU8h9rHyHj4agdVpBAkkL0mf",
           favorited: false
         },
         {
           name: "Bachalo",
           artist: "Akhil",
-          cover: "../img/15.jpg",
+          cover: "https://i.ibb.co/zxSFJ5V/15.jpg",
           source: "https://audio.jukehost.co.uk/bxC9Bi8J10EPjjaS7X4uKxi4W1MaMGtv",
           favorited: true
         },
@@ -27,7 +27,7 @@ new Vue({
         {
           name: "Chalo Mannya",
           artist: "Romaana",
-          cover: "../img/15.jpg",
+          cover: "https://i.ibb.co/zxSFJ5V/15.jpg",
           source: "https://audio.jukehost.co.uk/pdylmQP3ZIod26WI4CxIO92zb1Sv0k2e",
           favorited: false
         },
@@ -35,14 +35,14 @@ new Vue({
         {
           name: "Goriyaan_Goriyaan",
           artist: "Romaana",
-          cover: "../img/15.jpg",
+          cover: "https://i.ibb.co/zxSFJ5V/15.jpg",
           source: "https://audio.jukehost.co.uk/eICNjhr9VXCNWOTknv2cQcn3rmz247IA",
           favorited: false
         },
         {
           name: "Jhaanjar",
           artist: "Unknown",
-          cover: "../img/15.jpg",
+          cover: "https://i.ibb.co/zxSFJ5V/15.jpg",
           source: "https://audio.jukehost.co.uk/7oUawHkWSbN9vhuI5YdkbT22kgt5y28Z",
           
           favorited: true
@@ -50,28 +50,28 @@ new Vue({
         {
           name: "Kya Hota",
           artist: "Romaana",
-          cover: "../img/15.jpg",
+          cover: "https://i.ibb.co/zxSFJ5V/15.jpg",
           source: "https://audio.jukehost.co.uk/CIjJwg2hkSoHg0gIScLSLqMyxds2wx22",
           favorited: false
         },
         {
           name: "Mann Dolje",
           artist: "Romaana",
-          cover: "../img/15.jpg",
+          cover: "https://i.ibb.co/zxSFJ5V/15.jpg",
           source: "https://audio.jukehost.co.uk/DqvLvgx3ygsHP20et5t8Beqq8gjCxc1v",
           favorited: true
         },
         {
           name: "Mehrbaniyan",
           artist: "Romaana",
-          cover: "../img/15.jpg",
+          cover: "https://i.ibb.co/zxSFJ5V/15.jpg",
           source: "https://audio.jukehost.co.uk/Gmk87g84PghbfSGNznUTCh1DKMfyjc1k",
           favorited: false
         },
         {
           name: "One Love",
           artist: "Shubh",
-          cover: "../img/15.jpg",
+          cover: "https://i.ibb.co/zxSFJ5V/15.jpg",
           source: "https://audio.jukehost.co.uk/kyCrdurQMousYhSX5GYGkvgm8klQ9KXe",
           favorited: false
         }
